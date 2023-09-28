@@ -1,0 +1,13 @@
+[
+  { "id": 1, "title": "creativity", "value": 90, "color": "#f7df1e" },
+  { "id": 2, "title": "communication", "value": 85, "color": "#61dbfb" },
+  { "id": 3, "title": "problem solving", "value": 95, "color": "#e34c26" },
+  { "id": 4, "title": "Teamwork", "value": 95, "color": "#8533ff" },
+  { "id": 5, "title": "backup support", "value": 95, "color": "#666633" },
+  { "id": 6, "title": "Client-Focused", "value": 95, "color": "#ff8000" },
+  { "id": 7, "title": "Adaptability", "value": 95, "color": "#cc9900" },
+  { "id": 8, "title": "Explore new", "value": 95, "color": "#cc6600" },
+  { "id": 9, "title": "Take Challenges", "value": 95, "color": "#996633" },
+  { "id": 10, "title": "Ethical Considerations", "value": 95, "color": "#996633" }
+
+]
