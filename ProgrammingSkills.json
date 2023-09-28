@@ -10,7 +10,7 @@
   { "id": 9, "title": "mysql", "value": 78, "color": "#2496ed" },
   { "id": 10, "title": "php", "value": 82, "color": "#e535ab" },
   { "id": 11, "title": "Java", "value": 82, "color": "#9999ff" },
-  { "id": 12, "title": "OOP", "value": 82, "color": "#cc9900" },
-  { "id": 13, "title": "WordPress", "value": 82, "color": "#6666ff" }
+  { "id": 11, "title": "OOP", "value": 25, "color": "#cc9900" },
+  { "id": 12, "title": "WordPress", "value": 82, "color": "#6666ff" }
 
 ]
