@@ -3,70 +3,70 @@
     "id": 1,
     "project_title": "E-commerce Website",
     "category": "Web Development",
-    "img": "ecommerce.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A fully functional e-commerce website with user authentication, product listings, and cart functionality."
   },
   {
     "id": 2,
     "project_title": "Mobile App",
     "category": "Mobile App Development",
-    "img": "mobile_app.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A cross-platform mobile app for iOS and Android, built using React Native."
   },
   {
     "id": 3,
     "project_title": "Data Analysis Tool",
     "category": "Data Science",
-    "img": "data_analysis.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A data analysis tool that processes and visualizes large datasets using Python and Matplotlib."
   },
   {
     "id": 4,
     "project_title": "Graphic Design Portfolio",
     "category": "Graphic Design",
-    "img": "graphic_design.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A portfolio showcasing various graphic design projects, including logos, posters, and branding materials."
   },
   {
     "id": 5,
     "project_title": "Game Development",
     "category": "Game Development",
-    "img": "game_dev.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "An indie game developed using Unity, featuring 2D graphics and unique gameplay mechanics."
   },
   {
     "id": 6,
     "project_title": "Machine Learning Model",
     "category": "Machine Learning",
-    "img": "machine_learning.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A machine learning model trained to predict user behavior and make recommendations."
   },
   {
     "id": 7,
     "project_title": "Social Media App",
     "category": "Social Networking",
-    "img": "social_media.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A social media app with features like user profiles, posts, comments, and likes."
   },
   {
     "id": 8,
     "project_title": "IoT Home Automation",
     "category": "Internet of Things (IoT)",
-    "img": "iot_home.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "An IoT project that automates home appliances and lighting using Raspberry Pi and sensors."
   },
   {
     "id": 9,
     "project_title": "Photography Portfolio",
     "category": "Photography",
-    "img": "photography.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A portfolio showcasing the photographer's best work, including landscapes, portraits, and events."
   },
   {
     "id": 10,
     "project_title": "Video Editing",
     "category": "Video Editing",
-    "img": "video_editing.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A video editing project that involves editing and producing promotional videos for clients."
   }
 ]
