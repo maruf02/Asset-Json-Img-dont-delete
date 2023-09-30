@@ -12,7 +12,7 @@
     "project_title": "Mobile App",
     "category": "font-API",
     "live_link": "https://project-calculation-demo.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/mongo.png",
     "description": "A cross-platform mobile app for iOS and Android, built using React Native."
   },
   {
@@ -20,7 +20,7 @@
     "project_title": "Data Analysis Tool",
     "category": "Font-end",
     "live_link": "https://clever-beignet-87e978.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/next.jpg",
     "description": "A data analysis tool that processes and visualizes large datasets using Python and Matplotlib."
   },
   {
@@ -28,7 +28,7 @@
     "project_title": "Graphic Design Portfolio",
     "category": "Others",
     "live_link": "https://maruf02.github.io/image-sizeing-prob1/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/node.png",
     "description": "A portfolio showcasing various graphic design projects, including logos, posters, and branding materials."
   },
   {
@@ -36,7 +36,7 @@
     "project_title": "Game Development",
     "category": "font-API",
     "live_link": "https://maruf02.github.io/B8A2-Gamer-Zone/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/next.jpg",
     "description": "An indie game developed using Unity, featuring 2D graphics and unique gameplay mechanics."
   },
   {
@@ -44,7 +44,7 @@
     "project_title": "Machine Learning Model",
     "category": "Font-end",
     "live_link": "https://maruf02.github.io/Draft-portfolio-demo/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/node.png",
     "description": "A machine learning model trained to predict user behavior and make recommendations."
   },
   {
@@ -52,7 +52,7 @@
     "project_title": "Social Media App",
     "category": "font-API",
     "live_link": "https://maruf02.github.io/Jayan-IT_Center/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/react.png",
     "description": "A social media app with features like user profiles, posts, comments, and likes."
   },
   {
@@ -60,7 +60,7 @@
     "project_title": "IoT Home Automation",
     "category": "Graphics",
     "live_link": "https://maruf02.github.io/Legal-Solution/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/tailwind.jpg",
     "description": "An IoT project that automates home appliances and lighting using Raspberry Pi and sensors."
   },
   {
@@ -68,7 +68,7 @@
     "project_title": "Photography Portfolio",
     "category": "Font-end",
     "live_link": "https://maruf02.github.io/B8A3-Fruit-Brust/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/react.png",
     "description": "A portfolio showcasing the photographer's best work, including landscapes, portraits, and events."
   },
   {
@@ -76,7 +76,7 @@
     "project_title": "Video Editing",
     "category": "Graphics",
     "live_link": "https://project-calculation-demo.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/tailwind.jpg",
     "description": "A video editing project that involves editing and producing promotional videos for clients."
   },
   {
@@ -84,7 +84,7 @@
     "project_title": "Video Editing",
     "category": "Others",
     "live_link": "https://project-calculation-demo.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/wp.jpg",
     "description": "A video editing project that involves editing and producing promotional videos for clients."
   },
   {
@@ -92,7 +92,7 @@
     "project_title": "Video Editing",
     "category": "Others",
     "live_link": "https://maruf02.github.io/Flower-shop-website/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/js.png",
     "description": "A video editing project that involves editing and producing promotional videos for clients."
   },
   {
@@ -100,7 +100,7 @@
     "project_title": "Video Editing",
     "category": "Others",
     "live_link": "https://project-calculation-demo.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/express.png",
     "description": "A video editing project that involves editing and producing promotional videos for clients."
   }
 ]
