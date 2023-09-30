@@ -51,7 +51,7 @@
   {
     "id": 8,
     "project_title": "IoT Home Automation",
-    "category": "Others",
+    "category": "Graphics",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "An IoT project that automates home appliances and lighting using Raspberry Pi and sensors."
   },
@@ -61,6 +61,27 @@
     "category": "Font-end",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
     "description": "A portfolio showcasing the photographer's best work, including landscapes, portraits, and events."
+  },
+  {
+    "id": 10,
+    "project_title": "Video Editing",
+    "category": "Graphics",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "description": "A video editing project that involves editing and producing promotional videos for clients."
+  },
+  {
+    "id": 10,
+    "project_title": "Video Editing",
+    "category": "Others",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "description": "A video editing project that involves editing and producing promotional videos for clients."
+  },
+  {
+    "id": 10,
+    "project_title": "Video Editing",
+    "category": "Others",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
+    "description": "A video editing project that involves editing and producing promotional videos for clients."
   },
   {
     "id": 10,
