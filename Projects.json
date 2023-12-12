@@ -2,23 +2,23 @@
   {
     "id": 1,
     "project_title": "E-commerce Website",
-    "category": "Font-end",
-    "live_link": "https://project-calculation-demo.netlify.app/",
-    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/ProjectImg/abc.jpg",
-    "description": "A fully functional e-commerce website with user authentication, product listings, and cart functionality."
+    "category": "MERN",
+    "live_link": "https://hrms-solution.web.app/",
+    "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/mongo.png",
+    "description": "Technology: - React, express, JWT (local storage), mongoose, mongo and firebase authentication "
   },
   {
     "id": 2,
     "project_title": "Mobile App",
-    "category": "font-API",
-    "live_link": "https://project-calculation-demo.netlify.app/",
+    "category": "MERN",
+    "live_link": "https://hotelbook-system.web.app/",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/mongo.png",
     "description": "A cross-platform mobile app for iOS and Android, built using React Native."
   },
   {
     "id": 3,
     "project_title": "Data Analysis Tool",
-    "category": "Font-end",
+    "category": "MERN",
     "live_link": "https://clever-beignet-87e978.netlify.app/",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/next.jpg",
     "description": "A data analysis tool that processes and visualizes large datasets using Python and Matplotlib."
