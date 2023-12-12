@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "project_title": "E-commerce Website",
+    "project_title": "HRMS Solution",
     "category": "MERN",
     "live_link": "https://hrms-solution.web.app/",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/mongo.png",
@@ -9,19 +9,19 @@
   },
   {
     "id": 2,
-    "project_title": "Mobile App",
+    "project_title": "Hotel Booking System",
     "category": "MERN",
     "live_link": "https://hotelbook-system.web.app/",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/mongo.png",
-    "description": "A cross-platform mobile app for iOS and Android, built using React Native."
+    "description": "Technology: - React, express, mongo, JWT (cookies) and firebase authentication."
   },
   {
     "id": 3,
-    "project_title": "Data Analysis Tool",
+    "project_title": " AutoMotive Solution",
     "category": "MERN",
-    "live_link": "https://clever-beignet-87e978.netlify.app/",
+    "live_link": "https://autocar-client.web.app/",
     "img": "https://maruf02.github.io/Asset-Json-Img-dont-delete/PortfolioImage/next.jpg",
-    "description": "A data analysis tool that processes and visualizes large datasets using Python and Matplotlib."
+    "description": "Technology: - React, express, mongo and firebase authentication"
   },
   {
     "id": 4,
